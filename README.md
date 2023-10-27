@@ -14,8 +14,8 @@ Apply Feature Generation techniques to all the feature of the data set
 Save the data to the file
 ## PROGRAM
 ```
-Developed by: Deepika S
-Register Number: 212222230028
+Developed by: Dinesh S
+Register Number: 212222230033
 ```
 ### For Encoding.csv file
 ```
